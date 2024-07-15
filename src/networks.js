@@ -16,7 +16,7 @@ export const networkConfigs = {
     nodes: {
       defaultEth: 'https://mainnet.eth.aragon.network/',
       subgraph:
-        'https://graph.backend.aragon.org/subgraphs/name/aragon/aragon-court',
+        'https://api.studio.thegraph.com/query/82696/aragon-court/version/latest',
     },
   },
   rinkeby: {
